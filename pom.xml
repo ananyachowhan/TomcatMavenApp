@@ -54,7 +54,6 @@
                         <phase>validate</phase>
                         <goals>
                             <goal>copy</goal>
-                            <goal>package</goal>
                         </goals>
                         <configuration>
                             <outputDirectory>${endorsed.dir}</outputDirectory>
